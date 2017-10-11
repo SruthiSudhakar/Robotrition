@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.meena.robotrition.Robotrition" >
+    <item
+        android:id="@+id/search_food"
+        android:checkable="false"
+        android:orderInCategory="101"
+        android:title="Search Food Facts" />
+    <item
+        android:id="@+id/get_recs"
+        android:orderInCategory="104"
+        android:title="Get Recommendations" />
+    <item
+        android:id="@+id/add_fav"
+        android:orderInCategory="104"
+        android:title="Select or Browse Favorites" />
+    <item
+        android:id="@+id/recipies_id"
+        android:checkable="false"
+        android:orderInCategory="105"
+        android:title="Healthy Recepies" />
+    <item
+        android:id="@+id/profile_menu"
+        android:checkable="false"
+        android:orderInCategory="105"
+        android:title="Profile" />
+    <item
+        android:id="@+id/about_id"
+        android:checkable="false"
+        android:orderInCategory="105"
+        android:title="About" />
+</menu>
