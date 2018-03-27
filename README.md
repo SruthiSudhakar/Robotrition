@@ -1,0 +1,2 @@
+# Robotrition
+Developed and released an Android application called "Robotrition" on Google Play Store. This application is a nutrition app for those who would like to track their intake. Its features include the ability to: search any food and obtain nutrition facts, add foods to log history, create a favorites list, see the total number of calories, fats, and sugars consumed a day, and get recommendations of healthy options. Utilized Android Studio and FatSecret REST API. 
